@@ -66,32 +66,3 @@ Our benchmark includes carefully curated scam reports annotated with psychologic
 
 We only include dataset (`D2.csv`) in this repo.
 
-## 📄 Citation
-
-If you find this work helpful in your research, please cite:
-
-```bibtex
-@article{ma2025psyscambenchmarkpsychologicaltechniques,
-      title={PsyScam: A Benchmark for Psychological Techniques in Real-World Scams}, 
-      author={Shang Ma and Tianyi Ma and Jiahao Liu and Wei Song and Zhenkai Liang and Xusheng Xiao and Yanfang Ye},
-      year={2025},
-      journal={https://arxiv.org/abs/2505.15017}, 
-}
-```
-
-## 📧 Contact & Dataset Access
-
-For questions, collaborations, or access to the complete dataset, please contact:
-
-**Shang Ma**  
-📧 [sma5@nd.edu](mailto:sma5@nd.edu)
-
-*Note: Due to safety concerns and ethical considerations, the complete dataset is only released upon inquiry for legitimate research purposes.*
-
-## ⚖️ Ethical Considerations
-
-This research is conducted with careful attention to ethical implications. The dataset and tools are intended solely for academic research to improve online safety and scam detection. We do not condone the creation or deployment of actual scam content.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
